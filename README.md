@@ -1,6 +1,6 @@
 <!-- Profile: sanjaysiva-7 -->
 
-<h1 align="center">👋 Hi, I'm Sanjay Siva</h1>
+<h1 align="center">👋 Hi, I'm Sanjay</h1>
 
 <p align="center">
 🎓 <b>AI & Data Science Student</b> | 💻 <b>Machine Learning & IoT Developer</b><br>
