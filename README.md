@@ -1,77 +1,64 @@
 <!-- Profile: sanjaysiva-7 -->
 
-<h1 align="center">👋 Hi, I'm Sanjay</h1>
+<div align="center">
 
-<p align="center">
-🎓 <b>AI & Data Science Student</b> | 💻 <b>Machine Learning & IoT Developer</b><br>
-🚀 Passionate about building intelligent systems that combine AI, Cloud, and IoT.
-</p>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Sanjay+Siva;🎓+AI+%26+Data+Science+Student;💻+ML+%26+IoT+Developer;🚀+Building+Intelligent+Systems" alt="Typing SVG" />
 
----
+<br/>
 
-### 🧠 About Me
-- 🔭 Currently working on **AI-based Object Detection Projects** (Vest & Weapon Detection).  
-- 🌩️ Interested in **Cloud Computing**, **IoT Systems**, and **Computer Vision**.  
-- 🧩 Exploring **deep learning** and real-time detection systems using **YOLOv8** and **OpenCV**.  
-- 💡 Goal: To innovate AI-powered safety and monitoring applications.  
+<!-- Social Badges -->
+[![Email](https://img.shields.io/badge/Email-sanjay@example.com-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:sanjay@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/sanjaysiva)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-black?style=for-the-badge&logo=github&logoColor=white)](https://sanjaysiva-7.github.io)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sanjaysiva)
 
----
+<!-- Stats Cards -->
+<div align="center">
+  
+![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjaysiva-7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysiva-7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00)
 
-### ⚙️ Tech Stack
+</div>
 
-**Languages:**  
-`Python` `C++` `JavaScript`  
-
-**Frameworks & Libraries:**  
-`TensorFlow` `PyTorch` `OpenCV` `YOLOv8`  
-
-**Cloud & Data Tools:**  
-`AWS` `Hadoop` `Hive` `HBase`  
-
-**IoT & Hardware:**  
-`ESP32` `Arduino IDE`  
-
-**Other Tools:**  
-`Git` `Docker` `VS Code` `Linux`
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 🧠 About Me
 
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| 🦺 **Factory Vest Detection System** | Detects whether workers wear safety vests using ML models | YOLOv8, Python, OpenCV |
-| 🔫 **Weapon Detection AI** | Identifies weapons in real-time CCTV footage | CNN, YOLOv8 |
-| ☁️ **Remote Healthcare Monitor** | Tracks patient data through IoT & cloud dashboards | ESP32, Cloud |
-| 🔍 **Network Monitoring Tool** | Verifies data integrity using AH protocol | Python, Socket Programming |
+> *"Code. Learn. Build. Repeat."*
 
----
+I'm a passionate **AI & Data Science student** with a strong focus on building intelligent systems that combine **Machine Learning, IoT, and Cloud Computing**. I love solving real-world problems through technology and am constantly exploring new frontiers in AI.
 
-### 📊 GitHub Analytics
+```python
+class SanjaySiva:
+    def __init__(self):
+        self.education = "AI & Data Science Student"
+        self.interests = [
+            "Machine Learning",
+            "Computer Vision", 
+            "IoT Systems",
+            "Cloud Computing",
+            "Edge AI"
+        ]
+        self.current_focus = [
+            "AI-based Safety Vest Detection",
+            "Real-time Weapon Detection System",
+            "IoT Healthcare Monitoring"
+        ]
+    
+    def skills(self):
+        return {
+            'languages': ['Python', 'C++', 'JavaScript', 'SQL'],
+            'ml_frameworks': ['TensorFlow', 'PyTorch', 'Scikit-learn'],
+            'computer_vision': ['OpenCV', 'YOLOv8', 'MediaPipe'],
+            'cloud_iot': ['AWS', 'ESP32', 'Arduino', 'Docker'],
+            'tools': ['Git', 'VS Code', 'Jupyter', 'Linux']
+        }
+    
+    def get_in_touch(self):
+        return "Let's collaborate on innovative AI projects!"
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaysiva-7&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysiva-7&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysiva-7&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-me-red?logo=gmail" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="https://sanjaysiva-7.github.io"><img src="https://img.shields.io/badge/Portfolio-black?logo=github" /></a>
-</p>
-
----
-
-<p align="center">
-⭐ <i>“Code. Learn. Build. Repeat.”</i> ⭐
-</p>
+# Instantiate
+me = SanjaySiva()
